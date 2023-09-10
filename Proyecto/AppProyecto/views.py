@@ -5,7 +5,8 @@ from .models import *
 
 # Create your views here.
 
-
+def index(req):
+    return render (req, "index.html")
 
 def cliente(req):
     return render (req, "cliente.html")
