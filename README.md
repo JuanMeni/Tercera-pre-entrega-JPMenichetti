@@ -21,7 +21,7 @@ El backend de esta pagina esta subido en vercel, por lo que podriamos utilizarlo
 1. Clonamos la rama main del repositorio
 git clone https://github.com/JuanMeni/Tercera-pre-entrega-JPMenichetti
 ```
-3. Nos posicionamos en la carpeta del Proyecto
+2. Nos posicionamos en la carpeta del Proyecto
 cd Proyecto
 ```
 3. Verificamos que estemos en la carpeta Proyecto
