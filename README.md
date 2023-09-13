@@ -16,7 +16,6 @@
 -Bootstrap
 
 ## ⬇️ Instalacion
-El backend de esta pagina esta subido en vercel, por lo que podriamos utilizarlo realizando los siguientes comandos
 
 1. Clonamos la rama main del repositorio
 ```
