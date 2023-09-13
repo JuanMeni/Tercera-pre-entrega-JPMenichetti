@@ -38,4 +38,4 @@ python manage.py runserver
 http://127.0.0.1:8000/app-proyecto
 ```
 6. Una vez situado en la pagina principal se podran observar todas las partes de la pagina, desde el navbar y el footer, hasta las pestañas de productos.
-```
+7. 
