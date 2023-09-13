@@ -38,4 +38,16 @@ python manage.py runserver
 http://127.0.0.1:8000/app-proyecto
 ```
 6. Una vez situado en la pagina principal se podran observar todas las partes de la pagina, desde el navbar y el footer, hasta las pestañas de productos.
-7. 
+7. Para agregar producto con el formulario, nos dirigimos a la url
+```
+http://127.0.0.1:8000/app-proyecto/formulario-producto/
+```
+8. Para agregar clientes con el formulario, nos dirigimos a la url
+```
+http://127.0.0.1:8000/app-proyecto/formulario-cliente/
+```
+9. Para agregar categorias con el formulario, nos dirigimos a la url
+```
+http://127.0.0.1:8000/app-proyecto/formulario-cliente/
+```
+
