@@ -10,7 +10,13 @@ class Cliente (models.Model):
 class Producto (models.Model):
     nombre = models.CharField(max_length=40)
     descripcion = models.CharField(max_length=80)
-    precio = models.DecimalField(max_digits=4, decimal_places=2)
+    precio = models.DecimalField(max_digits=10, decimal_places=2)
+    
+    def __str__(self):
+       return f'{self.nombre} - ${self.precio}'
+    
 
 class Categoria(models.Model):
     nombre = models.CharField(max_length=100)
+    def __str__(self):
+       return f'{self.nombre}'

@@ -14,5 +14,6 @@ def cliente(req):
 def producto(req):
     return render (req, "producto.html")
 
+
 def categoria(req):
     return render (req, "categoria.html")
