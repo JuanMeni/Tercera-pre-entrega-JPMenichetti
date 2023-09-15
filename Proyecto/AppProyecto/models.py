@@ -7,7 +7,7 @@ class Cliente (models.Model):
     email = models.EmailField()
     direccion = models.CharField(max_length=40)
     
-    def _str_(self):
+    def __str__(self):
         return f'{self.usuario} - {self.email}'
     
 class Producto (models.Model):
