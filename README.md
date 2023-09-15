@@ -48,6 +48,11 @@ http://127.0.0.1:8000/app-proyecto/formulario-cliente/
 ```
 9. Para agregar categorias con el formulario, nos dirigimos a la url
 ```
-http://127.0.0.1:8000/app-proyecto/formulario-cliente/
+http://127.0.0.1:8000/app-proyecto/formulario-categoria/ 
 ```
+Para verificar que este todo correcto, ingresamos con el usuario admin, para eso entramos a la url
+```
+http://127.0.0.1:8000/admin
+```
+y utilizamos como usuario: juanmeni y como contraseña: 37105385
 
