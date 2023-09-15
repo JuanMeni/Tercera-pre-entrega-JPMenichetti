@@ -50,6 +50,10 @@ http://127.0.0.1:8000/app-proyecto/formulario-cliente/
 ```
 http://127.0.0.1:8000/app-proyecto/formulario-categoria/ 
 ```
+10. Para buscar un producto nos dirigimos a la siguiente url
+```
+http://127.0.0.1:8000/app-proyecto/busqueda-producto/
+```
 Para verificar que este todo correcto, ingresamos con el usuario admin, para eso entramos a la url
 ```
 http://127.0.0.1:8000/admin
